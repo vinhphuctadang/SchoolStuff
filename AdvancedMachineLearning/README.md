@@ -1,3 +1,10 @@
+## What is this?
+Currently, this is a folder for simply store my written scripts for school excercises
+
+Detail descriptions for files:
+
+- main.py: a simple perceptron with sigmoid activation training using tensorflow 2.0, only for study purpose
+
 ## Requirement
 Install following requirements if your device do not all all of the followings
 (On Windows/MacOSX, pip is preferrable)
